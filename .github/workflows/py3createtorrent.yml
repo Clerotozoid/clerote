@@ -5,10 +5,10 @@ on:
       - ".github/workflows/py3createtorrent.yml"
       
 env:
-  name: "Firefox Setup 88.0"
-  comment: "Firefox Setup 88.0 win64 by torrent-webseed-creator"
-  url: "https://download-installer.cdn.mozilla.net/pub/firefox/releases/88.0/win64/en-US/Firefox%20Setup%2088.0.exe"
-  file_name: "Firefox Setup 88.0.exe"
+  name: "Demonslayer"
+  comment: "mugentrain"
+  url: "https://download1485.mediafire.com/kiwqzsb8pp7g/bu1cb2vmrca2cid/%5BAnime60FPS.com%5DKMUGEN-4K60fps.mkv"
+  file_name: "demon slayer mugen train"
   piece_size: 0 # 0 for automatic calculation, or use the recommended piece size on the README.md file
   maximize_disk_space: false # Set to true if out of disk space
   
